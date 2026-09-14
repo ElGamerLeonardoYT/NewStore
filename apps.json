@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "1",
+    "Title": "Mi Aplicacion 1",
+    "Publisher": "Desarrollador X",
+    "IconUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/icon1.png",
+    "AppxUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/app1.appx",
+    "Description": "Descripción de la app."
+  }
+]
