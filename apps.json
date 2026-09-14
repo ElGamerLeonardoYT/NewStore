@@ -1,10 +1,50 @@
 [
   {
-    "Id": "1",
-    "Title": "Mi Aplicacion 1",
-    "Publisher": "Desarrollador X",
-    "IconUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/icon1.png",
-    "AppxUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/app1.appx",
-    "Description": "Descripción de la app."
+    "id": "1",
+    "title": "Subway Surfers",
+    "publisher": "Kiloo",
+    "description": "¡Corre tan rápido como puedas y esquiva los trenes que se aproximan! Ayuda a Jake, Tricky y Fresh a escapar del cascarrabias inspector y su perro.",
+    "iconUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/icons/subway.png",
+    "appxUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/apps/subway.appx"
+  },
+  {
+    "id": "2",
+    "title": "Geometry Dash",
+    "publisher": "RobTop Games",
+    "description": "¡Salta y vuela a través del peligro en este juego de plataformas de acción basado en el ritmo! Prepárate para un desafío casi imposible en el mundo de Geometry Dash.",
+    "iconUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/icons/geometry.png",
+    "appxUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/apps/geometry.appx"
+  },
+  {
+    "id": "3",
+    "title": "Minecraft",
+    "publisher": "Mojang",
+    "description": "Explora mundos generados aleatoriamente y construye cosas increíbles, desde la casa más humilde hasta el castillo más majestuoso.",
+    "iconUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/icons/minecraft.png",
+    "appxUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/apps/minecraft.appx"
+  },
+  {
+    "id": "4",
+    "title": "Flappy Bird",
+    "publisher": "DotGEARS",
+    "description": "Toca la pantalla para aletear y esquivar las tuberías verdes en este clásico y desafiante juego arcade.",
+    "iconUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/icons/flappy.png",
+    "appxUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/apps/flappy.appx"
+  },
+  {
+    "id": "5",
+    "title": "Fruit Ninja",
+    "publisher": "Halfbrick Studios",
+    "description": "¡Corta frutas, no cortes bombas! Conviértete en el maestro de las frutas en este adictivo juego de acción.",
+    "iconUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/icons/fruit.png",
+    "appxUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/apps/fruit.appx"
+  },
+  {
+    "id": "6",
+    "title": "Temple Run 2",
+    "publisher": "Imangi Studios",
+    "description": "Navega por acantilados peligrosos, tirolinas, minas y bosques mientras intentas escapar con el ídolo maldito.",
+    "iconUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/icons/temple.png",
+    "appxUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/apps/temple.appx"
   }
 ]
