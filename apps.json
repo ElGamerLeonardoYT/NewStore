@@ -1,50 +1,20 @@
 [
   {
-    "id": "1",
-    "title": "Nombre de la App 1",
-    "publisher": "Nombre del Creador / Editor",
-    "description": "Escribe aquí la descripción completa de la primera aplicación.",
-    "iconUrl": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITTORIO/main/icons/icono1.png",
-    "appxUrl": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITTORIO/main/apps/app1.appx"
+    "Id": "0",
+    "Title": "Adobe Reader Touch",
+    "Publisher": "Adobe Systems Incorporated",
+    "Description": "Adobe Reader® is the free, trusted leader for reliably viewing...",
+    "IconUrl": "https://tuweb.com/icons/adobe.png",
+    "BannerUrl": "https://tuweb.com/banners/adobe.png",
+    "AppxUrl": "https://tuweb.com/apps/app_0.appx"
   },
   {
-    "id": "2",
-    "title": "Nombre de la App 2",
-    "publisher": "Nombre del Creador / Editor",
-    "description": "Escribe aquí la descripción de la segunda aplicación.",
-    "iconUrl": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITTORIO/main/icons/icono2.png",
-    "appxUrl": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITTORIO/main/apps/app2.appx"
-  },
-  {
-    "id": "3",
-    "title": "Nombre de la App 3",
-    "publisher": "Nombre del Creador / Editor",
-    "description": "Escribe aquí la descripción de la tercera aplicación.",
-    "iconUrl": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITTORIO/main/icons/icono3.png",
-    "appxUrl": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITTORIO/main/apps/app3.appx"
-  },
-  {
-    "id": "4",
-    "title": "Nombre de la App 4",
-    "publisher": "Nombre del Creador / Editor",
-    "description": "Escribe aquí la descripción de la cuarta aplicación.",
-    "iconUrl": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITTORIO/main/icons/icono4.png",
-    "appxUrl": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITTORIO/main/apps/app4.appx"
-  },
-  {
-    "id": "5",
-    "title": "Nombre de la App 5",
-    "publisher": "Nombre del Creador / Editor",
-    "description": "Escribe aquí la descripción de la quinta aplicación.",
-    "iconUrl": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITTORIO/main/icons/icono5.png",
-    "appxUrl": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITTORIO/main/apps/app5.appx"
-  },
-  {
-    "id": "6",
-    "title": "Nombre de la App 6",
-    "publisher": "Nombre del Creador / Editor",
-    "description": "Escribe aquí la descripción de la sexta aplicación.",
-    "iconUrl": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITTORIO/main/icons/icono6.png",
-    "appxUrl": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITTORIO/main/apps/app6.appx"
+    "Id": "1",
+    "Title": "Netflix",
+    "Publisher": "Netflix, Inc.",
+    "Description": "Watch TV shows and movies on your device.",
+    "IconUrl": "https://tuweb.com/icons/netflix.png",
+    "BannerUrl": "https://tuweb.com/banners/netflix.png",
+    "AppxUrl": "https://tuweb.com/apps/app_1.appx"
   }
 ]
