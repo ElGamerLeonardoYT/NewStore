@@ -20,9 +20,7 @@
     "AppxUrl": "https://ejemplo.com/app2.appx",
     "Version": "1.2.0.0",
     "Category": "Game"
-  }
-]
-[
+  },
   {
     "Id": "3",
     "Title": "Nombre de la App 1",
@@ -44,9 +42,7 @@
     "AppxUrl": "https://ejemplo.com/app2.appx",
     "Version": "1.2.0.0",
     "Category": "Game"
-  }
-]
-[
+  },
   {
     "Id": "1",
     "Title": "Nombre de la App 1",
@@ -68,9 +64,7 @@
     "AppxUrl": "https://ejemplo.com/app2.appx",
     "Version": "1.2.0.0",
     "Category": "Game"
-  }
-]
-[
+  },
   {
     "Id": "6",
     "Title": "Nombre de la App 1",
