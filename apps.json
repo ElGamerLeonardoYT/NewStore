@@ -1,24 +1,13 @@
 [
   {
     "Id": "0",
-    "Title": "Adobe Reader Touch",
-    "Publisher": "Adobe Systems Incorporated",
+    "Title": "Nombre de la App",
+    "Publisher": "Publicador",
+    "Description": "Descripción detallada...",
+    "IconUrl": "https://...",
+    "BannerUrl": "https://...",
+    "AppxUrl": "https://...",
     "Version": "1.0.0.0",
-    "Category": "App",
-    "Description": "Adobe Reader® is the free, trusted leader for reliably viewing...",
-    "IconUrl": "https://tuweb.com/icons/adobe.png",
-    "BannerUrl": "https://tuweb.com/banners/adobe.png",
-    "AppxUrl": "https://tuweb.com/apps/app_0.appx"
-  },
-  {
-    "Id": "1",
-    "Title": "Netflix",
-    "Publisher": "Netflix, Inc.",
-    "Version": "2.1.0.5",
-    "Category": "App",
-    "Description": "Watch TV shows and movies on your device.",
-    "IconUrl": "https://tuweb.com/icons/netflix.png",
-    "BannerUrl": "https://tuweb.com/banners/netflix.png",
-    "AppxUrl": "https://tuweb.com/apps/app_1.appx"
+    "Category": "App"
   }
 ]
